@@ -12,6 +12,11 @@ collections:
     title: posts
     output: true
     comments: true
+  Freshmen Year - English:
+    title: Freshmen Year - English
+    output: true
+    comments: true
+    tags: English 9
   uploads:
     title: uploads
     output: true
