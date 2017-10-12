@@ -5,6 +5,7 @@ collections:
   english-9:
     title: Freshman Year - English
     output: true
+    permalink: english-9
     comments: true
     tags: English 9
     category: Freshmen Year - English
