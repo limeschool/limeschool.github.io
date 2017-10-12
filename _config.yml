@@ -5,6 +5,7 @@ collections:
   freshman-year-english:
     title: Freshman Year - English
     output: true
+    comments: true
   posts:
     title: posts
     output: true
