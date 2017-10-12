@@ -52,7 +52,7 @@ nav:
 - name: Tags
   url: "/tags"
 - name: Freshmen English
-  url: http://limeschool.cf/tags/#Freshmen English
+  url: http://limeschool.cf/freshmen-english/index/
 sass:
   sass_dir: _sass
   style: compressed
