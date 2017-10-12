@@ -33,7 +33,7 @@ google-analytics:
   "//id": 
 disqus:
   "/id": 
-url: https://emilsayahi.github.io/
+url: https://limeschool.github.io/
 baseurl: 
 permalink: "/:year-:month-:day/:title/"
 paginate: 5
