@@ -2,7 +2,7 @@
 title: Lime School
 timezone: America/New_York
 collections:
-  english-9-:
+  english-9:
     title: Freshman Year - English
     output: false
     permalink: english-9/
