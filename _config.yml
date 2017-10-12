@@ -5,6 +5,7 @@ collections:
   freshmen-english:
     title: Freshmen English
     output: true
+    layout: post
   posts:
     title: Posts
     output: true
