@@ -1,0 +1,32 @@
+---
+title: Lime School
+timezone: America/New_York
+collections:
+  freshman-year-english:
+    title: Freshman Year - English
+    output: true
+    comments: true
+    tags: English 9
+    category: Freshmen Year - English
+  posts:
+    title: posts
+    output: true
+    comments: true
+  uploads:
+    title: uploads
+    output: true
+email: emilsayahi@foresthills.edu
+description: 'Read my words, okay?
+
+'
+baseurl: 
+url: http://limeschool.github.io
+facebook: 
+github: https://github.com/limeschool
+twitter: 
+markdown: kramdown
+permalink: pretty
+paginate: 10
+paginate_path: blog/page:num
+gems:
+- jekyll-paginate
