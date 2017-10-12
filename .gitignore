@@ -1,7 +1,5 @@
 _site
 .sass-cache
-.jekyll-metadata
-
-log.txt
-
-.idea/workspace.xml
+Gemfile.lock
+_drafts
+.jsbeautifyrc

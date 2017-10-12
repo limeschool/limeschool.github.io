@@ -2,33 +2,57 @@
 title: Lime School
 timezone: America/New_York
 collections:
-  english-9:
-    title: Freshman Year - English
-    output: true
-    comments: true
-    tags: English 9
-    category: Freshmen Year - English
-    layout: post
   posts:
-    title: posts
+    title: Posts
     output: true
-    comments: true
   uploads:
-    title: uploads
+    title: Uploads
     output: true
-email: emilsayahi@foresthills.edu
-description: 'Read my words, okay?
-
-'
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+name: Lime School
+author:
+  name: Emil Sayahi
+  "//facebook": your-id
+  "//twitter": 
+  "/github": 
+  "//linkedin": your-id
+  "//medium": your-id
+  "//tumblr": your-id
+  email: emilsayahi@foresthills.edu
+google-analytics:
+  "//id": 
+disqus:
+  "/id": 
+url: https://emilsayahi.github.io/
 baseurl: 
-url: http://limeschool.github.io
-facebook: 
-github: https://github.com/limeschool
-twitter: 
+permalink: "/:year-:month-:day/:title/"
+paginate: 5
+paginate_path: "/page:num/"
 markdown: kramdown
-permalink: pretty
-paginate: 10
-paginate_path: blog/page:num
+kramdown:
+  imput: GFM
+nav:
+- name: About
+  url: "/about"
+- name: Archive
+  url: "/archive"
+- name: Tags
+  url: "/tags"
+sass:
+  sass_dir: _sass
+  style: compressed
 gems:
+- jekyll-seo-tag
 - jekyll-paginate
-- jekyll-tagslist
+exclude:
+- vendor
