@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   english-9:
     title: Freshman Year - English
-    output: true
+    output: false
     comments: true
     tags: English 9
     category: Freshmen Year - English
