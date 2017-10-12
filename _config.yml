@@ -9,6 +9,7 @@ collections:
     comments: true
     tags: English 9
     category: Freshmen Year - English
+    layout: post
   posts:
     title: posts
     output: true
