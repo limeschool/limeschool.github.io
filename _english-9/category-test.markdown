@@ -6,6 +6,7 @@ categories:
 - English 9
 tags:
 - English 9
+layout: post
 ---
 
 Quick 'lil test.
