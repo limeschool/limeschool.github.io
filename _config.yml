@@ -2,6 +2,9 @@
 title: Lime School
 timezone: America/New_York
 collections:
+  freshman-year-english:
+    title: Freshman Year - English
+    output: true
   posts:
     title: posts
     output: true
