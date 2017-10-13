@@ -35,7 +35,7 @@ author:
 google-analytics:
   "//id": 
 disqus:
-  "/id": 
+  id: limeschool
 url: https://limeschool.github.io/
 baseurl: 
 permalink: "/:year-:month-:day/:title/"
