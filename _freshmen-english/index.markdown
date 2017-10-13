@@ -1,6 +1,7 @@
 ---
 title: index
 date: 2017-10-12 18:29:00 -04:00
+layout: page
 ---
 
 {% for item in site.freshmen_english %}
