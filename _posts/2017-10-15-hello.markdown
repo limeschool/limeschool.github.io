@@ -1,0 +1,6 @@
+---
+title: Hello!
+date: 2017-10-15 15:10:00 -04:00
+---
+
+Welcome to my blog. There isn't much around here right now. You can find any published school work by clicking the class in the navigation bar on the home page.
