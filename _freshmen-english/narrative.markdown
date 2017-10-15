@@ -7,7 +7,7 @@ layout: post
 Emil Sayahi
 Mrs. Gifford
 English 9 Pre-AP
-4 Oct. 2017
+15 Oct. 2017
 
 
 <p align="center">Adopted Money</p>
