@@ -4,6 +4,11 @@ date: 2017-10-15 14:15:00 -04:00
 layout: post
 ---
 
+Emil Sayahi
+Mrs. Gifford
+English 9 Pre-AP
+4 Oct. 2017
+
 
 <p align="center">Adopted Money</p>
 
