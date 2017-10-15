@@ -1,6 +1,7 @@
 ---
 title: Narrative
 date: 2017-10-15 14:15:00 -04:00
+layout: post
 ---
 
 
