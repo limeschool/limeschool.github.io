@@ -4,19 +4,19 @@ date: 2017-10-15 14:15:00 -04:00
 layout: post
 ---
 
-Emil Sayahi
+Emil Sayahi<br>  
 
 <br/><br/>
 
-Mrs. Gifford
+Mrs. Gifford<br> 
 
 <br/><br/>
 
-English 9 Pre-AP
+English 9 Pre-AP<br> 
 
 <br/><br/>
 
-15 Oct. 2017
+15 Oct. 2017<br> 
 
 <br/><br/>
 
