@@ -6,19 +6,19 @@ layout: post
 
 Emil Sayahi<br>  
 
-<br/><br/>
+
 
 Mrs. Gifford<br> 
 
-<br/><br/>
+
 
 English 9 Pre-AP<br> 
 
-<br/><br/>
+
 
 15 Oct. 2017<br> 
 
-<br/><br/>
+
 
 <p align="center">Adopted Money</p>
 
