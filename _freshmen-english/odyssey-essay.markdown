@@ -1,6 +1,7 @@
 ---
 title: Odyssey Essay
 date: 2018-01-11 17:59:00 -05:00
+layout: post
 ---
 
 Emil Sayahi<br>  
