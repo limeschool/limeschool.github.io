@@ -1,23 +1,19 @@
 ---
 title: Warmup Essay
-date: 2017-11-02 07:29:00 -04:00
+date: 2017-10-26 07:20:00 -04:00
 layout: post
 ---
 
-Emil Sayahi<br>  
-Mrs. Gifford<br>  
-Pre-AP 9<br>  
-26 Oct. 2017<br>  
+Emil Sayahi<br>\
+Mrs. Gifford<br>\
+Pre-AP 9<br>\
+26 Oct. 2017<br>
 
 <p align="center">Warmup Essay</p>
-
-  
 
 **Thesis & Map:**
 
 Grades are a major source of stress that have been with me from years and will continue to be with me. This is due to their importance, their ability to lead to judgement, and their usually unstable nature.
-
-  
 
 **Body Paragraphs:**
 
