@@ -27,7 +27,7 @@ author:
   name: Emil Sayahi
   "//facebook": your-id
   "//twitter": 
-  "/github": 
+  github: emil-sayahi
   "//linkedin": your-id
   "//medium": your-id
   "//tumblr": your-id
@@ -53,6 +53,8 @@ nav:
   url: "/tags"
 - name: Freshmen English
   url: http://limeschool.cf/freshmen-english/index/
+- name: Personal Website
+  url: http://emsa.cf
 sass:
   sass_dir: _sass
   style: compressed
