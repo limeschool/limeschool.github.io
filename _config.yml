@@ -2,11 +2,11 @@
 title: Lime School
 timezone: America/New_York
 collections:
-  freshmen-english:
-    title: Freshmen English
-    output: true
   posts:
     title: Posts
+    output: true
+  freshmen-english:
+    title: Pre-AP English 9
     output: true
   uploads:
     title: Uploads
