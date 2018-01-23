@@ -4,7 +4,7 @@ date: 2017-12-19 07:20:00 -05:00
 layout: post
 ---
 
-``This essay was written in 100 minutes for a pass/fail exam at 7:20AM in the morning on paper. I apologize in advance for the quality.``
+``This essay was written in 100 minutes for a pass/fail exam at 7:20AM in the morning on paper. I've retyped it, with all of the mistakes that came with it (weird commas, strange wording, etc.) I apologize in advance for the quality.``
 
 <br>
 	    There is a debate sweeping across the nation, seemingly involving everyone, from parents to children, teachers to students, and coaches to athletes. Should schools start later? That is the question on the minds of many. So, should they? From the currently available evidence, no.
