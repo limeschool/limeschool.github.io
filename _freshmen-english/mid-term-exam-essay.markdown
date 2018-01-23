@@ -4,13 +4,10 @@ date: 2017-12-19 07:20:00 -05:00
 layout: post
 ---
 
-``This essay was written in 100 minutes for a pass/fail exam at 7:20AM in the morning on paper. I've retyped it, with all of the mistakes that came with it (weird commas, strange wording, etc.) I apologize in advance for the quality.``
+``  This essay was written in 100 minutes for a pass/fail exam at 7:20AM in the morning on paper. I've retyped it, with all of the mistakes that came with it (weird commas, strange wording, etc.) I apologize in advance for the quality.  ``
 
 <br>
-There is a debate sweeping across the nation, seemingly involving everyone, from parents to children, teachers to students, and coaches to athletes.  
-
-<br>
-Should schools start later? That is the question on the minds of many. So, should they? From the currently available evidence, no.  
+There is a debate sweeping across the nation, seemingly involving everyone, from parents to children, teachers to students, and coaches to athletes. Should schools start later? That is the question on the minds of many. So, should they? From the currently available evidence, no.  
 
 <br>
 According, to an article by Ian Campbell, Ph. D., and Irwin Feinberg, M.D., teens a go through a process called synaptic pruning, which reduces the number of excess neural synapses as teenagers age. This process decreases the amount of sleep required, calling into question the commonly cited 8-10 hours required statistic. No empirical evidence has ever supported this claim directly, making it appear to be an estimate by health and education organizations. Delaying school, according to Campbell and Feinberg, will harm schools financially, as the increased costs of transportation and lighting for extracurricular activities pushed to the dark will harm schools financially.  
