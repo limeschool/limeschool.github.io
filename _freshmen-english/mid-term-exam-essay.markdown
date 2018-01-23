@@ -1,6 +1,7 @@
 ---
 title: Mid-Term Exam Essay
 date: 2017-12-19 07:20:00 -05:00
+layout: post
 ---
 
 ``This essay was written in 100 minutes for a pass/fail exam at 7:20AM in the morning. I apologize for the quality.``
