@@ -1,0 +1,30 @@
+---
+title: AP Human Geography
+date: 2017-09-05 07:20:00 -04:00
+layout: page
+---
+
+<div class="archive">
+  <div class="archive-list">
+  {% if site.human-geo.size == 0 %}
+    <h2>No posts found</h2>
+  {% else %}
+  {% for post in site.human-geo %}
+    <div class="archive-list-post">
+      {% if post.link %}
+      <a href="{{ post.link }}">
+      {% else %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+      {% endif %}  
+        <span class="archive-list-post-title">
+          {{ post.title }}
+        </span>
+        <span class="archive-list-post-date">
+          <time>| {{ post.date | date_to_string }}</time>
+        </span>
+      </a>
+    </div>
+  {% endfor %}
+  {% endif %}
+  </div>
+</div>
