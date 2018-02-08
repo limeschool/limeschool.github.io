@@ -2,7 +2,7 @@
 title: Lime School
 timezone: America/New_York
 collections:
-  ap-human-geography:
+  human-geo:
     title: AP Human Geography
     output: true
   posts:
