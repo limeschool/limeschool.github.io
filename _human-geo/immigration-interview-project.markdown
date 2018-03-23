@@ -1,6 +1,7 @@
 ---
 title: Immigration Interview Project
 date: 2017-11-28 07:20:00 -05:00
+layout: post
 ---
 
 	Jan Behrens is a fourteen year old Brazilian-born German who immigrated into the United States from Brazil on June 20, 2006. I’ve chosen to interview them because they’ve experienced and can remember multiple foreign cultures from before they moved to America.
