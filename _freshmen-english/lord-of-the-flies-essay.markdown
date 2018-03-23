@@ -1,8 +1,17 @@
 ---
 title: Lord of the Flies Essay
-date: 2018-03-23 07:49:00 -04:00
+date: 2018-03-14 07:20:00 -04:00
 ---
 
+Emil Sayahi
+<br>
+Mrs. Gifford
+<br>
+Pre-AP English 9
+<br>
+14 March 2018
+<br>
+<br>
 <center>The Perfect Fictional Fascist</center>
 <br>
 It seems like every society has some dictator here and there that wants absolute power. The Soviets had Stalin, China had Mao, and Germany had Hitler. Every single one of these successful dictators had one thing in common: revolutions. It takes several things to lead a revolution, but they mainly needed charisma, persuasiveness, communicative skills, and a personality. Whether people read what they wrote, or heard it, their people had to think of them. Their personality became a cult-like brand. When people interacted with them, they felt their power as they shook their hand. This idea has translated into literature in the form of many characters. In Lord of the Flies, by William Golding, a character by the name of Jack leads a revolution on an island run by children, by using his personality, propagandist abilities, charisma, and emotional appeal. **Jack is a master manipulator who knew exactly what he was doing, and intentionally created conflict using fear and propaganda like an authoritarian totalitarian dictator. We can see this from how Jack uses the idea of the beast to keep the boys under his control by instilling fear in all of their minds, allowing him to spread lies against his enemies to bring out unwarranted hatred and rage against them, and has led to him torturing boys to set examples of what'll happen if they step out of line.
