@@ -14,4 +14,6 @@ As a result of his experiences when immigrating, Jan believes that Americans can
 <br>
 Jan’s immigration was voluntary, and occurred as a result of several push factors. These factors were all related to the fact that Brazil was and still is far less developed than the United States. Jan’s education and connection to a popular American culture would’ve been severely hurt in a negative way if he had continued to live in Brazil.
 <br>
+
+
 His immigration also had pull factors to the United States, consisting of better opportunities, education, infrastructure, a more universal culture, and a better economy. The main catalyst for his immigration was the job opportunity presented to his father which would’ve been an improvement financially for his family and also would’ve ensured a better future for Jan.
