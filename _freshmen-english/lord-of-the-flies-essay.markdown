@@ -1,6 +1,7 @@
 ---
 title: Lord of the Flies Essay
 date: 2018-03-14 07:20:00 -04:00
+layout: post
 ---
 
 Emil Sayahi
