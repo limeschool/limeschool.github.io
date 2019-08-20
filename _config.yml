@@ -2,6 +2,9 @@
 title: Lime School
 timezone: America/New_York
 collections:
+  ap-lang:
+    title: AP English Language and Composition
+    output: true
   human-geo:
     title: AP Human Geography
     output: true
@@ -54,12 +57,8 @@ nav:
   url: "/archive"
 - name: Tags
   url: "/tags"
-- name: Pre-AP English 9
-  url: http://limeschool.cf/freshmen-english/index/
-- name: AP Human Geography
-  url: http://limeschool.github.io/human-geo/index/
-- name: Personal Website
-  url: http://emsa.cf
+- name: AP English Language and Composition
+  url: http://limeschool.cf/ap-lang/index/
 sass:
   sass_dir: _sass
   style: compressed
