@@ -55,8 +55,6 @@ nav:
   url: "/about"
 - name: Archive
   url: "/archive"
-- name: Tags
-  url: "/tags"
 - name: AP English Language and Composition
   url: http://limeschool.cf/ap-lang/index/
 sass:
