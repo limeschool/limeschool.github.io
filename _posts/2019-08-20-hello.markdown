@@ -1,0 +1,8 @@
+---
+title: Hello!
+date: 2019-08-20 12:00:00 -04:00
+---
+
+Welcome!
+
+To navigate, use the navigation bar at the top. Assignments are sorted by course.
