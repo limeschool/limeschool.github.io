@@ -9,7 +9,7 @@ layout:
 		<title>{{ site.name | xml_escape }} - AP English Language and Composition</title>
 		<link>{{ site.url }}/ap-lang/index</link>
 		<atom:link href="{{ site.url }}/ap-lang.xml" rel="self" type="application/rss+xml" />
-		{% for post in ap-lang.posts %}
+		{% for post in site.ap-lang %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
