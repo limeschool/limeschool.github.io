@@ -20,3 +20,6 @@ layout:
 		{% endfor %}
 	</channel>
 </rss>
+<handlers>
+ <add name="RSS Request Handler" path="*.rss" verb="*" type="System.Web.Handlers.TransferRequestHandler" resourceType="Unspecified" preCondition="integratedMode" />    
+</handlers> 
