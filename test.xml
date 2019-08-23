@@ -1,0 +1,63 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Lime School - AP English Language and Composition</title>
+		<link>https://limeschool.github.io/ap-lang/index</link>
+		<atom:link href="https://limeschool.github.io/ap-lang.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>AP English Language and Composition</title>
+        <description>&lt;div class=&quot;archive&quot;&gt;
+  &lt;div class=&quot;archive-list&quot;&gt;
+    &lt;a href=&quot;https://limeschool.github.io/ap-lang.xml&quot;&gt;&lt;p&gt;Subscribe to RSS feed&lt;/p&gt;&lt;/a&gt;
+  
+  
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+      
+      &lt;a href=&quot;/ap-lang/index/&quot;&gt;
+        
+        &lt;span class=&quot;archive-list-post-title&quot;&gt;
+          AP English Language and Composition
+        &lt;/span&gt;
+        &lt;span class=&quot;archive-list-post-date&quot;&gt;
+          &lt;time&gt;| 15 Aug 2019&lt;/time&gt;
+        &lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+      
+      &lt;a href=&quot;/ap-lang/welcome-d-h/&quot;&gt;
+        
+        &lt;span class=&quot;archive-list-post-title&quot;&gt;
+          Welcome, D-H.
+        &lt;/span&gt;
+        &lt;span class=&quot;archive-list-post-date&quot;&gt;
+          &lt;time&gt;| 22 Aug 2019&lt;/time&gt;
+        &lt;/span&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  
+  
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+				<pubDate>Thu, 15 Aug 2019 08:00:00 -0400</pubDate>
+				<link>https://limeschool.github.io//ap-lang/index/</link>
+				<guid isPermaLink="true">https://limeschool.github.io//ap-lang/index/</guid>
+			</item>
+		
+			<item>
+				<title>Welcome, D-H.</title>
+        <description>&lt;p&gt;Hello, D-H. If you’ve found this post, you’ve gone to the right place.&lt;/p&gt;
+
+&lt;p&gt;The RSS feed is at &lt;a href=&quot;https://limeschool.cf/ap-lang.xml&quot;&gt;https://limeschool.cf/ap-lang.xml&lt;/a&gt;, and the page where all of the blog posts related to &lt;em&gt;AP English Language and Composition&lt;/em&gt; will go is at &lt;a href=&quot;https://limeschool.cf/ap-lang/index&quot;&gt;https://limeschool.cf/ap-lang/index&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 22 Aug 2019 11:00:00 -0400</pubDate>
+				<link>https://limeschool.github.io//ap-lang/welcome-d-h/</link>
+				<guid isPermaLink="true">https://limeschool.github.io//ap-lang/welcome-d-h/</guid>
+			</item>
+		
+	</channel>
+</rss>
