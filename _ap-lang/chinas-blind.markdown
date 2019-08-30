@@ -4,15 +4,15 @@ date: 2019-08-29 21:30:00 -04:00
 layout: post
 ---
 
-<p style="line-height: 2;">
+<p style="line-height: 2; font-family: "Times New Roman", Times, serif;">
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
 AP English Language and Composition<br>
 30 August 2019<br>
 </p>
 
-<p align="center">China's Blind</p>
-<p style="line-height: 2;">
+<p align="center" style="line-height: 2; font-family: "Times New Roman", Times, serif;">China's Blind</p>
+<p style="line-height: 2; font-family: "Times New Roman", Times, serif;">
 	&emsp;&emsp;I was out in a street market, laughing at the knockoff children’s toys, bewildered by the strange music, and terrified by the strange and exotic street food. I admit, as someone from a fairly western European culture, I did judge the whole arrangement like an explorer of the Orient, serving His Majesty—seeking pride and glory by taking for King and Country, only to land upon a Sino-Slavic bazaar in the Muslim Quarter of <i>Xī‘ān</i>.
 <br>&emsp;&emsp;A few hours had passed, my soul was content, and two homeless women approached. They asked us foreigners, <i>wài guó rén</i>, for money. Brandishing their aged skin, sullen eyes, and missing limbs, I was filled with remorse. Unfortunately, I’d just spent my money in the shops, so I had none to offer. They became agitated, frustrated at humanity’s apathetic attitude towards suffering, until a friend of mine offered them some spare bread. They pointed at their mouths and showed us their lack of teeth—what teeth could they chew bread with?
 <br>&emsp;&emsp;I thought about those women a lot, and I still do. I often ponder if they’re dead, if they had children, even coming up with fictions to give answer to how they’d become so destitute. The group got back onto the bus and drove back to the hotel. Flipping through the channels on the television set, fiddling with phone, looking outside, I became grotesquely aware of China’s silence. A country of over a billion, silent to the mind and heart. It spoke with a homogenous hive-mind, deafening as it reached its monotone yet voluminous crescendo—a voice proud in its inability to think or feel, for socializing would be unsociable.
