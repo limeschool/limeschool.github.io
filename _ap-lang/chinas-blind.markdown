@@ -4,10 +4,12 @@ date: 2019-08-29 21:30:00 -04:00
 layout: post
 ---
 
+<p style="line-height: 2;">
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
 AP English Language and Composition<br>
 30 August 2019<br>
+</p>
 
 <p align="center">China's Blind</p>
 <p style="line-height: 2;">
