@@ -4,7 +4,7 @@ date: 2019-08-29 21:30:00 -04:00
 layout: post
 ---
 
-<p style="font-family: "Times New Roman", Times, serif;">
+<article>
 <p style="line-height: 2;">
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
@@ -22,3 +22,4 @@ AP English Language and Composition<br>
 <br>&emsp;Among the many seas of people I’d sailed through, only a few among me had substance to discuss. Mass mind erasure on a catastrophic scale had devastated a culture. I had seen it in those women from the bazaar. Their destitution, their desperation—it was a symptom of a societal problem that had gone unspoken. China was a nation of history, without memory of it. It’s very foundation existing in a state of superposition, with its long and rich history propping up the regime that’d erased it. At the end of the trip, I went to an art gallery. There was, of course, the usual student art. Young minds with passion, <i>needing</i> to share what could not be shared with words. Right next to the most beautiful artwork of all was propaganda. A poster by the Communist Party. I had the luxury of forgetting it. China can’t. The world chooses not to. After all, how’d a little bit of industrial trade ever hurt anybody?
 </p>
 </p>
+</article>
