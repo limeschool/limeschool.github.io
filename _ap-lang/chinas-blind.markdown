@@ -1,6 +1,7 @@
 ---
 title: China's Blind
-date: 2019-08-29 21:24:00 -04:00
+date: 2019-08-29 21:30:00 -04:00
+layout: post
 ---
 
 Emil Sayahi<br>
