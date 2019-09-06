@@ -5,6 +5,7 @@ layout: post
 ---
 
 <article>
+<p>
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
 AP English Language and Composition<br>
