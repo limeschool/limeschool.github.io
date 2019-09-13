@@ -1,6 +1,7 @@
 ---
 title: Show or Tell
 date: 2019-09-12 21:50:00 -04:00
+layout: post
 ---
 
 <article>
