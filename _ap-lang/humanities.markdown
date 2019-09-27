@@ -1,6 +1,7 @@
 ---
 title: Humanities
 date: 2019-09-26 22:03:00 -04:00
+layout: post
 ---
 
 <article>
