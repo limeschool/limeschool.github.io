@@ -151,7 +151,7 @@ li ol > li {
   margin: 0 !important;
 
   &:before {
-    content: counters(item, ".") " "; !important;
+    content: counters(item, ".") " " !important;
   }
 }
 
