@@ -327,39 +327,6 @@ article{
 /*--------------
   Footer
   -------------- */
-/**
- * Nested numbered list with correct indentation.
- *
- * Tested on Firefox 32, Chromium 37, IE 9 and Android Browser. Doesn't work on IE 7 and previous.
- * Source: https://gist.github.com/jirutka/32049196ab75547b7f47
- */
-
-ol {
-  list-style-type: none !important;
-  counter-reset: item !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-ol > li {
-  display: table !important;
-  counter-increment: item !important;
-  margin-bottom: 0.6em !important;
-
-  &:before {
-    content: counters(item, ".") ". " !important;
-    display: table-cell !important;
-    padding-right: 0.6em !important;
-  }
-}
-
-li ol > li {
-  margin: 0 !important;
-
-  &:before {
-    content: counters(item, ".") " "; !important;
-  }
-}
 
 .footer {
   text-align: center;
