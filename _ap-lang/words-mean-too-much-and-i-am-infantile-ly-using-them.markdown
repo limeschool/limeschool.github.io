@@ -40,5 +40,9 @@ Now, with the lights off, you may have observed that you saw <span style="color:
 	  <li>Try to make the same claim to someone’s face and observe your confidence again.</li>
         </ol>
 </blockquote>
+<div>
+<p align="center" style="line-height: 2;">Works Cited</p>
+"GLCM Guidance System". Vol 5, no. 4, 1997, p. 5., http://afmissileers.com/newsletters/NL1997/Dec97.pdf. Accessed 15 Feb 2020.
+</div>
 </p>
 </article>
