@@ -1,6 +1,7 @@
 ---
 title: Words Mean Too Much and I Am Infantile(ly Using Them)
-date: 2020-02-14 22:26:00 -05:00
+date: 2020-02-14 08:00:00 -05:00
+layout: post
 ---
 
 <article>
