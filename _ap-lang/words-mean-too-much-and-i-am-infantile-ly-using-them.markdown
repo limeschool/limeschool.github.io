@@ -37,4 +37,3 @@ Now, with the lights off, you may have observed that you saw <p style="color: #8
 	  <li>Try to make the same claim to someone’s face and observe your confidence again.</li>
         </ol>
 </p>
-</article>
