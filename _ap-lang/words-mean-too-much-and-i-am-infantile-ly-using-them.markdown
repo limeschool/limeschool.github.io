@@ -5,7 +5,7 @@ layout: post
 ---
 
 <article>
-<p style="line-height: 2;">
+<div style="line-height: 2;">
 <p>
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
@@ -46,5 +46,5 @@ Now, with the lights off, you may have observed that you saw <span style="color:
 "GLCM Guidance System". Vol 5, no. 4, 1997, p. 5., http://afmissileers.com/newsletters/NL1997/Dec97.pdf. Accessed 15 Feb 2020.
 </div>
 </p>
-</p>
+</div>
 </article>
