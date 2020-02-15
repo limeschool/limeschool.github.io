@@ -4,7 +4,7 @@ date: 2020-02-14 08:00:00 -05:00
 layout: post
 ---
 
-<article style="line-height: 2;>
+<article>
 <p>
 Emil Sayahi<br>
 Sandra Dunstan-Hoover<br>
