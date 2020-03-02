@@ -1,6 +1,7 @@
 ---
 title: I Am Talking About Sports, and No I Am Not Dying
 date: 2020-02-28 07:38:00 -05:00
+layout: post
 ---
 
 <article>
