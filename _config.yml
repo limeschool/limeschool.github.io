@@ -56,7 +56,7 @@ nav:
 - name: Archive
   url: "/archive"
 - name: AP English Language and Composition
-  url: http://limeschool.cf/ap-lang/index/
+  url: http://limeschool.github.io/ap-lang/index/
 sass:
   sass_dir: _sass
   style: compressed
