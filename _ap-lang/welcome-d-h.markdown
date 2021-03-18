@@ -6,4 +6,4 @@ layout: post
 
 Hello, D-H. If you've found this post, you've gone to the right place.
 
-The RSS feed is at [{{ site.url }}/ap-lang.xml]({{ site.url }}/ap-lang.xml), and the page where all of the blog posts related to *AP English Language and Composition* will go is at [{{ site.url }}/ap-lang/index]({{ site.url }}/ap-lang/index).
+The RSS feed is at [{{ site.url }}ap-lang.xml]({{ site.url }}ap-lang.xml), and the page where all of the blog posts related to *AP English Language and Composition* will go is at [{{ site.url }}ap-lang/index]({{ site.url }}ap-lang/index).
